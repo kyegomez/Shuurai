@@ -1,15 +1,13 @@
 [![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
 
-# Paper-Implementation-Template
-A simple reproducible template to implement AI research papers 
+# Shuurai
+Shuurai - An In-Depth Analysis of Highly Experimental Swarms of Transformer Architecture
 
-Paper Link
+
 
 # Appreciation
 * Lucidrains
 * Agorians
-
-
 
 # Install
 `pip install shuurai`
